@@ -1,6 +1,6 @@
 package com.human.ex;
 
-public class JavaTest03 {
+public class JavaTest02 {
 	public static void main(String[] args) {
 		System.out.println
 		(
